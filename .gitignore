@@ -1,0 +1,14 @@
+node_modules/
+dist/
+site-bundle.zip
+*.log
+*.pid
+.DS_Store
+.env
+.env.*
+!.env.example
+.agents/
+.claude/
+skills-lock.json
+cdn-index.html
+balance-report.json
